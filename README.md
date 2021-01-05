@@ -1,0 +1,2 @@
+# PricingPanel
+Simple CSS layout
